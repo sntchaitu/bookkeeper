@@ -1,0 +1,3 @@
+bookkeeper_hello_world:
+    path:     /helloworld
+    defaults: { _controller: BookkeeperHellWorldBundle:Default:index }
