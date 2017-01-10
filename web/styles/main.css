@@ -1,0 +1,9 @@
+.paddingBetweenRows td
+{
+    padding:0 15px 0 15px;
+}
+
+/*table {*/
+    /*border-collapse:collapse;*/
+    /*border: 1px solid black;*/
+/*}*/

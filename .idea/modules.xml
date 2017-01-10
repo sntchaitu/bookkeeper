@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LocFindCA/.idea/LocFindCA.iml" filepath="$PROJECT_DIR$/../LocFindCA/.idea/LocFindCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../basiccms/.idea/basiccms.iml" filepath="$PROJECT_DIR$/../basiccms/.idea/basiccms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bookkeeper.iml" filepath="$PROJECT_DIR$/.idea/bookkeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cms/.idea/cms.iml" filepath="$PROJECT_DIR$/../cms/.idea/cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myhobbycms/.idea/myhobbycms.iml" filepath="$PROJECT_DIR$/../myhobbycms/.idea/myhobbycms.iml" />
     </modules>
   </component>
 </project>

@@ -1,12 +1,19 @@
 {% extends '::base.html.twig' %}
 {% block body %}
-    <h1>Book Manager</h1>
+    <h1>Book Keeping App</h1>
     <ul>
         {% for book in books %}
-        <li>
-            {{ book.title }}
-            <a href="{{ path('book_show',{'id':book.id}) }}">View Book</a>
-        </li>
+
+            <table class='paddingBetweenRows'>
+            <tr>
+
+                <td>
+                    {{ book.title }}</td>
+            <td><a href="{{ path('book_show',{'id':book.id}) }}">View Book</a>
+             </td>
+            </tr>
+            </table>
+
             {% endfor %}
     </ul>
 
